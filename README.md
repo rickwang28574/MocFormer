@@ -1,4 +1,6 @@
 # MocFormer: A Two-Stage Pre-training-Driven Transformer for Drug-Target Interactions Prediction
+
+![image](https://github.com/rickwang28574/MocFormer/assets/87885188/f152b543-1c42-4616-82ac-e9489a53cf66)
  
 This repository contains the official implementation of the following paper:
 
