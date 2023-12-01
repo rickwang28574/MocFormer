@@ -14,11 +14,11 @@ MocFormer: A Two-Stage Pre-training-Driven Transformer for Drug-Target Interacti
 
 ## Citation
 Please cite
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>@article{wu2022medsegdiff,
-  title={MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model},
-  author={Wu, Junde and Fang, Huihui and Zhang, Yu and Yang, Yehui and Xu, Yanwu},
-  journal={arXiv preprint arXiv:2211.00611},
-  year={2022}
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>@article{Zhang2023.09.13.557595,
+  title={MocFormer: A Two-Stage Pre-training-Driven Transformer for Drug-Target Interactions Prediction},
+  author={Yi-Lun Zhang and Wen-Tao Wang and Jia-Hui Guan and Deepak Kumar Jain and Tian-Yang Wang and Swalpa Kumar Roy},
+  journal={bioRxiv},
+  year={2023}
 }
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="@article{Zhang2023.09.13.557595,
